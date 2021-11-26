@@ -1,1 +1,1 @@
-![Image of GitHub Manufacturetocat](https://octodex.github.com/manufacturetocat/)
+![Image of GitHub mascot, the Octocat](https://octodex.github.com/original/)
