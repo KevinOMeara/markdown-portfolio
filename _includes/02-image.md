@@ -1,1 +1,2 @@
-![Image of GitHub mascot, the Octocat](https://octodex.github.com/original/)
+![Image of Yaktocat](https://octodex.github.com/images/manufacturetocat.png)
+
